@@ -2,6 +2,7 @@
 /**
  * Module dependencies.
  */
+ console.log('ssss');
 var init = require('./config/init')(),
 	config = require('./config/config'),
 	mongoose = require('mongoose'),
